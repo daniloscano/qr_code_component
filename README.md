@@ -16,7 +16,7 @@ A simple QR Code component created using HTML and CSS Flexbox responsive layout
 ### Links
 
 - Solution URL: [Repo](https://github.com/daniloscano/qr_code_component)
-- Live Site URL: [Live Demo](https://your-live-site-url.com)
+- Live Site URL: [Live Demo](https://daniloscano.github.io/qr_code_component/)
 
 ## My process
 
